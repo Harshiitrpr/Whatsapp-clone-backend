@@ -1,6 +1,6 @@
 # Whatsapp clone Backend
 
-**Tech Stack-** Spring boot 3, Angular 18, Bootstrap, PostgreSQL, Keycloak (2024) (Backend)
+**Tech Stack-** Spring boot 3, Angular 18, Bootstrap, PostgreSQL, Keycloak (2024)
 
 [Angular Frontend](https://github.com/Harshiitrpr/Whatsapp-clone-frontend)
 
